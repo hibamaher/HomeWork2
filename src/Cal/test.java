@@ -33,8 +33,5 @@ public class test {
 		assertEquals(1,(int)(l.Div(8.0,0.0)));
 		assertEquals(1,(int)(l.mod(8.0,0.0)));
 		assertEquals(1,(int)(l.sqr(-1)));
-
-
 	}
-
 }
